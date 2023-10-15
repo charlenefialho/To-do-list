@@ -1,5 +1,6 @@
 package com.charlenefialho.todolist.user;
 
+
 public class UserModel {
   private String name;
   private String username;

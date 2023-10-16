@@ -1,4 +1,4 @@
-package com.charlenefialho.todolist.task.filter;
+package com.charlenefialho.todolist.filter;
 
 import java.io.IOException;
 import java.util.Base64;
